@@ -1,5 +1,5 @@
 {
- "news": {
+  "news": {
     "items": [
       {
         "date": "2026.2",
@@ -11,22 +11,21 @@
         "title": "[Unlocked 300 level at NOUN Nigeria] Online",
         "content": "🌊 I am now in 300 lvl in the University online ."
       },
-      {
+    {
         "date": "2024.3",
         "title": "[EscapeBills is founded) [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social)](https://github.com/onloopdev/escapebills) Released!",
         "content": "🚀 EscapeBills a registered telecommunication vendor known for internet services, airtime VTU, cable TV subscriptions, electricity payment, converting airtime to cash, bitcoin buying and selling"
       },
-      {
+       {
         "date": "2024.9",
         "title": "[Worked in WHAI AFRICA IN THE SUMMER ) ",
         "content": "💼 I worked at WHAI AFRICA during the Summer Vocation to teach Children Robotics and Basic Programming "
      },
       {
-        "date": "2022.9",
+         "date": "2022.9",
         "title": "Accepted to Volunteer At STEMNOVO to teach STEM ",
         "content": "📘 Got accepted to STEMNOVO 2022. Congratulations to [Cyprian Obiakor]!"
-      },
-     
+      }
     ]
   },
   "projects": {
