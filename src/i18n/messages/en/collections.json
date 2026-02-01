@@ -426,14 +426,14 @@
   "teaching": {
     "items": [
      {
-        "date": "Summer 2024",
-        "location": "WHAI AFRICA",
-        "title": "Introduction to Web development"
+        "date": "Fall 2022",
+        "location": "National University of Singapore",
+        "title": "CS5242: Neural Networks and Deep Learning"
       },
-     {
-        "date": "Fall 2025",
-        "location": "QUEEN OF ROSARY COLLEGE OSHA ",
-        "title": "ROBOTICS 101"
+      {
+        "date": "Fall 2020",
+        "location": "Nanjing University",
+        "title": "Algorithm Analysis & Design"
       }
     ]
   },
