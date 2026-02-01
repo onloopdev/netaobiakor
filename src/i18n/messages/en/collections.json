@@ -2,180 +2,67 @@
   "news": {
     "items": [
       {
-        "date": "2026.2",
-        "title": "New Portfolio [netaobiakor.vercel.app](https://netaobiakor.vercel.app) launched! Welcome as you visit!",
-        "content": "🎉 Congratulations to me and i thank Alex Peters for pushing me to have a portfolio."
+        "date": "2026.02",
+        "title": "New Portfolio Launched",
+        "content": "🎉 My personal portfolio is live at https://netaobiakor.vercel.app. Special thanks to Alex Peters for the push."
       },
       {
-        "date": "2026.1",
-        "title": "[Unlocked 300 level at NOUN Nigeria] Online",
-        "content": "🌊 I am now in 300 lvl in the University online ."
+        "date": "2026.01",
+        "title": "Advanced to 300 Level at NOUN",
+        "content": "🌊 I am now officially a 300-level Computer Science student at NOUN (online)."
       },
       {
-        "date": "2024.3",
-        "title": "[EscapeBills is founded) [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social)](https://github.com/onloopdev/escapebills) Released!",
-        "content": "🚀 EscapeBills a registered telecommunication vendor known for internet services, airtime VTU, cable TV subscriptions, electricity payment, converting airtime to cash, bitcoin buying and selling"
+        "date": "2024.03",
+        "title": "EscapeBills Founded",
+        "content": "🚀 EscapeBills is a registered telecom platform offering VTU, data, cable TV, electricity payments, airtime-to-cash, and crypto services."
       },
       {
-        "date": "2024.9",
-        "title": "[Worked in WHAI AFRICA IN THE SUMMER ) ",
-        "content": "💼 I worked at WHAI AFRICA during the Summer Vocation to teach Children Robotics and Basic Programming "
-     },
-      {
-        "date": "2022.9",
-        "title": "Accepted to Volunteer At STEMNOVO to teach STEM ",
-        "content": "📘 Got accepted to STEMNOVO 2022. Congratulations to [Cyprian Obiakor]!"
+        "date": "2024.09",
+        "title": "Summer Teaching at WHAI Africa",
+        "content": "💼 Taught children Robotics and Basic Programming during the summer program."
       },
-     
+      {
+        "date": "2022.09",
+        "title": "Accepted as STEMNOVO Volunteer",
+        "content": "📘 Volunteered to teach STEM subjects under STEMNOVO."
+      }
     ]
   },
+
   "projects": {
     "items": [
       {
-        "title": "Video-Ocean Video Agent",
-        "href": "https://video-ocean.com/en/agent",
-        "dates": "Jun. 2025 - Present",
+        "title": "EscapeBills",
+        "href": "https://github.com/onloopdev/escapebills",
+        "dates": "2024 - Present",
         "active": true,
-        "description": "Video-Ocean Video Agent generates videos up to minutes with a few clicks, including voice and face.",
-        "technologies": [],
-        "authors": "",
+        "description": "A telecom and digital services platform for data, airtime, cable TV, electricity bills, and crypto exchange.",
+        "technologies": ["JavaScript", "PHP", "APIs"],
         "links": [
           {
-            "type": "Website",
-            "href": "https://video-ocean.com/en/agent",
-            "icon": "globe"
+            "type": "GitHub",
+            "href": "https://github.com/onloopdev/escapebills",
+            "icon": "github"
           }
         ],
         "image": "",
-        "video": "https://files.zangwei.dev/proj-video-agent.mp4"
-      },
-      {
-        "title": "Open-Sora [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social)](https://github.com/hpcaitech/Open-Sora)",
-        "href": "https://github.com/hpcaitech/Open-Sora",
-        "dates": "Mar. 2024 - Mar. 2025",
-        "active": true,
-        "description": "The world's first open-source Sora-like video generation model — bringing efficient, high-quality video production to everyone.",
-        "technologies": [],
-        "authors": "",
-        "links": [
-          {
-            "type": "Github",
-            "href": "https://github.com/hpcaitech/Open-Sora",
-            "icon": "github"
-          },
-          {
-            "type": "Open-Sora 1.2",
-            "href": "https://arxiv.org/abs/2412.20404",
-            "icon": "paper"
-          },
-          {
-            "type": "Open-Sora 2.0",
-            "href": "https://arxiv.org/abs/2503.09642",
-            "icon": "paper"
-          }
-        ],
-        "image": "/proj-open-sora.png",
-        "video": ""
-      },
-      {
-        "title": "Video-Ocean [![Video Ocean v2.0 – #1 Product of the Day (Apr 12, 2025)](https://img.shields.io/badge/Product%20Hunt-%231%20of%20the%20Day-ff6154?logo=producthunt&logoColor=white)](https://www.producthunt.com/products/video-ocean-v2-0)",
-        "href": "https://video-ocean.com/app",
-        "dates": "April 2025 - Present",
-        "active": true,
-        "description": "Video-Ocean is a video generation platform that allows you to generate videos, images and audios with state-of-the-art models.",
-        "technologies": [],
-        "authors": "",
-        "links": [
-          {
-            "type": "Website",
-            "href": "https://video-ocean.com/app",
-            "icon": "globe"
-          }
-        ],
-        "image": "/proj-video-ocean.png",
-        "video": ""
-      },
-      {
-        "title": "Template for This Website",
-        "href": "https://github.com/zhengzangw/nextjs-portfolio-blog-research",
-        "dates": "Oct. 2025",
-        "active": true,
-        "description": "The template for this website, named Nextjs-Portfolio-Blog-Research. Built with Next.js, Tailwind CSS, Vercel, and more.",
-        "image": "/proj-portfolio-template.png",
-        "links": [
-          {
-            "type": "Github",
-            "href": "https://github.com/zhengzangw/nextjs-portfolio-blog-research",
-            "icon": "github"
-          },
-          {
-            "type": "Docs",
-            "href": "https://docs-nextjs-portfolio-blog-research.zangwei.dev/",
-            "icon": "bookopen"
-          },
-          {
-            "type": "Blog",
-            "href": "/blog/note-nextjs-homepage",
-            "icon": "newspaper"
-          }
-        ]
-      },
-      {
-        "title": "ColossalChat [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI)",
-        "href": "https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalChat",
-        "dates": "Mar. 2023",
-        "active": true,
-        "description": "ColossalChat is a project to implement LLM with RLHF, powered by the Colossal-AI.",
-        "technologies": [],
-        "authors": "",
-        "links": [
-          {
-            "type": "Github",
-            "href": "https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalChat",
-            "icon": "github"
-          },
-          {
-            "type": "Blog",
-            "href": "https://medium.com/pytorch/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b",
-            "icon": "newspaper"
-          }
-        ],
-        "image": "/proj-colossalchat.png",
-        "video": ""
-      },
-      {
-        "title": "Instruction in the Wild [![GitHub Repo stars](https://img.shields.io/github/stars/XueFuzhao/InstructionWild?style=social)](https://github.com/XueFuzhao/InstructionWild)",
-        "href": "https://github.com/XueFuzhao/InstructionWild",
-        "dates": "Apr. 2024",
-        "active": true,
-        "description": "This project focuses on building a larger and more diverse instruction dataset by collecting 110K instructions from shared ChatGPT usage.",
-        "technologies": [],
-        "authors": "",
-        "links": [
-          {
-            "type": "Github",
-            "href": "https://github.com/XueFuzhao/InstructionWild",
-            "icon": "github"
-          }
-        ],
-        "image": "/proj-inst-wild.png",
         "video": ""
       }
     ]
   },
+
   "education": {
     "items": [
       {
         "school": "National Open University of Nigeria",
         "href": "https://nou.edu.ng/",
-        "degree": "Currently Pursuing BS.C in Computer Science",
-        "logoUrl": "https://nou.edu.ng//wp-content/uploads/2021/12/Logo-shield-1.png",
+        "degree": "B.Sc. Computer Science (In View)",
+        "logoUrl": "https://nou.edu.ng/wp-content/uploads/2021/12/Logo-shield-1.png",
         "start": "2023",
         "end": "2027"
       },
-      
       {
-        "school": "All Hallows Seminary Onitsha",
+        "school": "All Hallows Seminary, Onitsha",
         "href": "https://allhallowsseminary.com",
         "degree": "High School Diploma",
         "logoUrl": "https://allhallowsseminary.com/wp-content/uploads/2021/02/ALL-HALLOWS.png",
@@ -184,173 +71,104 @@
       }
     ]
   },
+
   "work": {
     "items": [
       {
-        "company": "HAMONICARE NG",
+        "company": "Hamonicare NG",
         "href": "https://hamonicare.com.ng/",
-        "badges": [],
         "location": "Nigeria",
         "title": "Creative Director",
-        "logoUrl": "#",
         "start": "Dec. 2025",
         "end": "Present",
-        "description": "Founder of Escapebills and Hamonicare."
+        "description": "Founder and creative lead for Hamonicare and EscapeBills."
       },
       {
-        "company": "Stemnovo",
-        "href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ng.linkedin.com/company/stemnovo-ng&ved=2ahUKEwiusqmMmbiSAxU8UkEAHWrBH78QFnoECBwQAQ&usg=AOvVaw1m9wDxRo_WqvKMYWWjoq-P",
-        "badges": [],
-        "location": "Onitsha",
-        "title": "Intern",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFrzRViiyElX6dBobuH6fKzoxQh70HD4IOoGMe6Si0BaveNGWGsRCNu9A&s",
+        "company": "STEMNOVO",
+        "href": "https://ng.linkedin.com/company/stemnovo-ng",
+        "location": "Onitsha, Nigeria",
+        "title": "Intern / STEM Instructor",
         "start": "Feb. 2021",
         "end": "Sept. 2025",
-        "description": " I taught Arduino, Robotics and Basic Programming using Scratch to High School Girls alongside other team members ."
+        "description": "Taught Arduino, Robotics, and Scratch programming to high school students."
       },
       {
-        "company": "ALL-HALLOWS SEMINARY",
+        "company": "All Hallows Seminary",
         "href": "https://allhallowsseminary.com/",
-        "badges": [],
-        "location": "(Onsite) Onitsha, NG",
-        "title": "Research Intern",
-        "logoUrl": "https://allhallowsseminary.com/wp-content/uploads/2021/02/ALL-HALLOWS.png",
+        "location": "Onitsha, Nigeria",
+        "title": "ICT & Research Intern",
         "start": "Sept. 2020",
-        "end": "AUG. 2021",
-        "description": "Work as ICT teacher and Library Manager and also trained students coding using Scratch"
+        "end": "Aug. 2021",
+        "description": "ICT instructor, library manager, and Scratch programming trainer."
       }
     ]
   },
+
   "awards": {
     "items": [
-     
-      {
-        "year": 2020,
-        "title": "Outstanding Graduates of All Hallows Seminary"
-      },
-      {
-        "year": 2017,
-        "title": "A1 IN LATIN DIPLOMA EXAMINATION"
-      },
-      {
-        "year": 2017,
-        "title": "3rd Winner of Olympiad Chemistry Competition"
-      },
-    
+      { "year": 2020, "title": "Outstanding Graduate – All Hallows Seminary" },
+      { "year": 2017, "title": "A1 – Latin Diploma Examination" },
+      { "year": 2017, "title": "3rd Place – Chemistry Olympiad" }
     ]
   },
- 
+
   "teaching": {
     "items": [
       {
         "date": "Summer 2024",
-        "location": "WHAI AFRICA",
-        "title": "Introduction to Web development"
+        "location": "WHAI Africa",
+        "title": "Introduction to Web Development"
       },
       {
         "date": "Fall 2025",
-        "location": "QUEEN OF ROSARY COLLEGE OSHA ",
-        "title": "ROBOTICS 101"
+        "location": "Queen of Rosary College, Osha",
+        "title": "Robotics 101"
       }
     ]
   },
+
   "skills": [
-    "Python",
-    "PyTorch",
-    "TypeScript",
+    "JavaScript",
     "React",
     "Next.js",
-    "Javascript",
-    "GitHub Actions",
-    "GitLab CI/CD",
+    "Python",
     "PHP",
+    "Git",
     "Vercel",
-    "Canva",
+    "Canva"
   ],
-  "Conferences": [
+
+  "conferences": [
     "Google Developers Onitsha",
     "Stellar Blockchain Awka",
-    "Foris Labs",
+    "Foris Labs"
   ],
+
   "social": {
     "GitHub": {
       "name": "GitHub",
       "url": "https://github.com/onloopdev",
       "icon": "github",
-      "navbar": false,
       "content": true,
       "footer": true
     },
-   
-   
-    "LinkedIn": {
-      "name": "LinkedIn",
-      "url": "#",
-      "icon": "linkedin",
-      "navbar": false,
-      "content": true,
-      "footer": true
-    },
-    "X": {
-      "name": "X",
-      "url": "#",
-      "icon": "x",
-      "navbar": false,
-      "content": true,
-      "footer": true
-    },
-    
-    "facebook": {
-      "name": "Facebook",
-      "url": "https://www.facebook.com/cyprianobiakor",
-      "icon": "facebook",
-      "navbar": false,
-      "content": false,
-      "footer": true
-    },
-    "instagram": {
+    "Instagram": {
       "name": "Instagram",
       "url": "https://www.instagram.com/netaobiakor",
       "icon": "instagram",
-      "navbar": false,
-      "content": false,
       "footer": true
     },
-    "telegram": {
-      "name": "Telegram",
-      "url": "https://t.me/lukkassenn",
-      "icon": "telegram",
-      "navbar": false,
-      "content": false,
-      "footer": true
-    },
-   
-    "medium": {
+    "Medium": {
       "name": "Medium",
       "url": "https://medium.com/@obiakorcyprian",
       "icon": "medium",
-      "navbar": false,
-      "content": false,
       "footer": true
     },
-    "substack": {
-      "name": "Substack",
-      "url": "https://substack.com/@netaobiakor",
-      "icon": "substack",
-      "navbar": false,
-      "content": false,
-      "footer": true
-    },
-  
-    "email": {
+    "Email": {
       "name": "Email",
       "url": "mailto:obiakorcyprian@gmail.com",
       "icon": "email",
-      "navbar": false,
-      "content": true,
-      "footer": false
-    },
-   
-   
+      "content": true
+    }
   }
 }
