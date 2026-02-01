@@ -16,120 +16,15 @@
         "title": "[EscapeBills is founded) [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social)](https://github.com/onloopdev/escapebills) Released!",
         "content": "🚀 EscapeBills a registered telecommunication vendor known for internet services, airtime VTU, cable TV subscriptions, electricity payment, converting airtime to cash, bitcoin buying and selling"
       },
-      {
-        "date": "2025.3",
-        "title": "[Open-Sora 2.0](https://arxiv.org/abs/2503.09642) [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social)](https://github.com/hpcaitech/Open-Sora) Released!",
-        "content": "🚀 Despite constrained computational resources, it achieves Sora-level metrics, fulfilling our goal of providing an open-source implementation of Sora."
-      },
-      {
+       {
         "date": "2024.9",
-        "title": "Paper Accepted ([MSIER](https://arxiv.org/abs/2404.12866), EMNLP 2024)",
-        "content": "📘 Got one paper accepted to EMNLP 2024. Congratulations to [Yang Luo](https://yangluo7.github.io/)!"
-      },
-      {
-        "date": "2024.9",
-        "title": "[Video-Ocean](https://video-ocean.com/en/app) Online",
-        "content": "🌊 Video-Ocean is now online! Generate your own video with a few clicks."
-      },
-      {
-        "date": "2024.6",
-        "title": "Paper Accepted ([Dataset Growth](https://arxiv.org/pdf/2405.18347), ECCV 2024)",
-        "content": "📘 Got one paper accepted to ECCV 2024. Congratulations to [Ziheng Qin](https://scholar.google.com/citations?user=I04VhPMAAAAJ)!"
-      },
-      {
-        "date": "2024.6",
-        "title": "[Open-Sora 1.2](https://github.com/hpcaitech/Open-Sora) Released",
-        "content": "🚀 A 1.1B model on >30M data with improved performance."
-      },
-      {
-        "date": "2024.5",
-        "title": "Paper Accepted ([Token Crisis](https://arxiv.org/pdf/2305.13230), ICML 2024)",
-        "content": "📘 Got one paper accepted to ICML 2024. Congratulations to [Fuzhao Xue](https://xuefuzhao.github.io/)!"
-      },
-      {
-        "date": "2024.4",
-        "title": "[Open-Sora 1.1](https://github.com/hpcaitech/Open-Sora) Released",
-        "content": "🚀 Support 0s~15s, 144p to 720p, various aspect ratios videos generation, plus a data processing pipeline."
-      },
-      {
-        "date": "2024.4",
-        "title": "Paper Accepted ([Helen optimizer](https://arxiv.org/pdf/2403.00798), WWW 2024)",
-        "content": "📘 Got one paper accepted to WWW 2024. Congratulations to [Zirui Zhu](https://scholar.google.com/citations?user=eCAzecoAAAAJ&hl)!"
-      },
-      {
-        "date": "2024.3",
-        "title": "[Open-Sora 1.0](https://github.com/hpcaitech/Open-Sora) Released",
-        "content": "🎥 The first open-source Sora-like video generation model."
-      },
-      {
-        "date": "2024.1",
-        "title": "Paper Accepted ([InfoBatch](https://arxiv.org/pdf/2303.04947), ICLR 2024 Oral)",
-        "content": "🎉 Got one paper accepted to ICLR 2024 (oral). Congratulations to [Ziheng Qin](https://scholar.google.com/citations?user=I04VhPMAAAAJ) and [Kai Wang](https://kaiwang960112.github.io/)!"
-      },
-      {
-        "date": "2023.9",
-        "title": "Papers Accepted (first-authored [Sequence-Scheduling](https://arxiv.org/pdf/2305.13144), NeurIPS 2023)",
-        "content": "🔥 Got two papers accepted to NeurIPS 2023. Cong to [Fuzhao Xue](https://xuefuzhao.github.io/) and myself. So many thanks to my collaborators!"
-      },
-      {
-        "date": "2023.7",
-        "title": "Paper Accepted (first-authored  [ZSCL](https://arxiv.org/pdf/2303.06628), ICCV 2023)",
-        "content": "📄 Got one first-authored paper accepted to ICCV 2023. Thanks to all my collaborators!"
-      },
-      {
-        "date": "2023.7",
-        "title": "Award ([CAME optimizer](https://arxiv.org/abs/2307.02047), [ACL Outstanding Paper](https://2023.aclweb.org/program/best_papers/))",
-        "content": "🏅 The CAME paper won the ACL Outstanding Paper Award!"
-      },
-      {
-        "date": "2023.5",
-        "title": "Paper Accepted ([CAME optimizer](https://arxiv.org/abs/2307.02047), ACL 2023)",
-        "content": "📘 Got one paper accepted to ACL 2023. Congratulations to [Yang Luo](https://yangluo7.github.io/)!"
-      },
-      {
-        "date": "2023.4",
-        "title": "Paper Accepted ([Bamboo](https://proceedings.mlr.press/v202/xue23b.html), ICML 2023)",
-        "content": "📘 Got one paper accepted to ICML 2023. Congratulations to [Fuzhao Xue](https://xuefuzhao.github.io/)!"
-      },
-      {
-        "date": "2023.3",
-        "title": "[ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) [![GitHub Repo Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalChat) Released",
-        "content": "🤖 Open-sourced LLM training framework for you to train your own version of ChatGPT. Congratulations to colleagues at HPC-AI-Tech!"
-      },
-      {
-        "date": "2023.2",
-        "title": "Award ([CowClip optimizer](https://arxiv.org/abs/2204.06240), [AAAI Distinguished Paper](https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards-1.pdf))",
-        "content": "🥇 The CowClip paper won the AAAI Distinguished Paper Award!"
-      },
-      {
-        "date": "2022.12",
-        "title": "Ph.D. Qualifying Exam Passed",
-        "content": "🎓 Passed the qualifying exam. Cong to myself :) and thanks for my supervisor and friends' help!"
-      },
-      {
-        "date": "2022.11",
-        "title": "Paper Accepted (first-authored [CowClip optimizer](https://arxiv.org/abs/2204.06240), AAAI 2023)",
-        "content": "📑 Got one first-authored paper accepted to AAAI 2023. Thanks to all my collaborators!"
-      },
-      {
-        "date": "2021.8",
-        "title": "[NJU-CSE-Flyers Handbook](https://nju-cse-flyers.github.io/) Published",
-        "content": "📘 The NJU-CSE-Flyers Handbook 2021 has been published."
-      },
-      {
-        "date": "2021.7",
-        "title": "Internship at ByteDance",
-        "content": "💼 Happy to start my internship in ByteDance."
-      },
-      {
-        "date": "2021.6",
-        "title": "Graduated from [Nanjing University](https://www.nju.edu.cn/)",
-        "content": "🎓 Bacheror's degree from Nanjing University. Thanks and good luck to all my teachers and classmates."
-      },
-      {
-        "date": "2021.3",
-        "title": "Joined [HPC-AI @ NUS](https://ai.comp.nus.edu.sg/) Ph.D. Program",
-        "content": "📚 I will join HPC-AI @ NUS to start my Ph.D. degree under the supervision of Presidential Young Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)!"
+        "title": "[Worked in WHAI AFRICA IN THE SUMMER ) ",
+        "content": "💼 I worked at WHAI AFRICA during the Summer Vocation to teach Children Robotics and Basic Programming "
+     },
+     {
+        "date": "2022.9",
+        "title": "Accepted to Volunteer At STEMNOVO to teach STEM ",
+        "content": "📘 Got accepted to STEMNOVO 2022. Congratulations to [Cyprian Obiakor]!"
       },
       {
         "date": "2021.2",
