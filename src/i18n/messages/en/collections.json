@@ -459,10 +459,16 @@
     "Canva",
   ],
   "reviewerConferences": [
-    "NOTHING YET",
+    "NeurIPS",
+    "ICLR",
+    "CVPR",
+    "ECCV",
+    "AAAI"
   ],
   "reviewerJournals": [
-    "NOT YET"
+    "Pattern Recognition",
+    "TIP",
+    "TSMC-S"
   ],
   "social": {
     "GitHub": {
