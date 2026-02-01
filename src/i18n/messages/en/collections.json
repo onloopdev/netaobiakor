@@ -278,29 +278,22 @@
   },
   "education": {
     "items": [
-      {
-        "school": "National University of Singapore",
-        "href": "https://nus.edu.sg/",
-        "degree": "Ph.D. in Computer Science",
-        "logoUrl": "/icon/nus.png",
-        "start": "2021",
-        "end": "2025"
+     {
+        "school": "National Open University of Nigeria",
+        "href": "https://nou.edu.ng/",
+        "degree": "Currently Pursuing BS.C in Computer Science",
+        "logoUrl": "https://nou.edu.ng//wp-content/uploads/2021/12/Logo-shield-1.png",
+        "start": "2023",
+        "end": "2027"
       },
+    
       {
-        "school": "Nanjing University",
-        "href": "https://www.nju.edu.cn/en/",
-        "degree": "Bachelor's Degree of Computer Science (top 2%)",
-        "logoUrl": "/icon/nju.png",
-        "start": "2017",
-        "end": "2021"
-      },
-      {
-        "school": "Jiangsu Xishan Senior High School",
-        "href": "https://en.wikipedia.org/wiki/Xishan_Senior_High_School#:~:text=Jiangsu%20Xishan%20Senior%20High%20School,in%20computing%20and%20network%20facilities.",
+        "school": "All Hallows Seminary Onitsha",
+        "href": "https://allhallowsseminary.com",
         "degree": "High School Diploma",
-        "logoUrl": "/icon/xishan.png",
+        "logoUrl": "https://allhallowsseminary.com/wp-content/uploads/2021/02/ALL-HALLOWS.png",
         "start": "2014",
-        "end": "2017"
+        "end": "2020"
       }
     ]
   },
