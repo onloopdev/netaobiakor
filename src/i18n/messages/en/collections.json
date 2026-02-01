@@ -28,7 +28,7 @@
       },
     ]
   },
-  "projects": {
+   "projects": {
     "items": [
       {
         "title": "Video-Ocean Video Agent",
@@ -158,6 +158,348 @@
           }
         ],
         "image": "/proj-inst-wild.png",
+        "video": ""
+      }
+    ]
+  },
+  "publications": {
+    "items": [
+      {
+        "title": "CowClip Optimizer ![AAAI Distinguished Award](https://img.shields.io/badge/AAAI-Distinguished%20Paper%20Award-ff3557?logo=ai&logoColor=white&style=flat-square)",
+        "href": "https://arxiv.org/abs/2204.06240",
+        "dates": "AAAI 2023",
+        "active": true,
+        "description": "An optimizer that can train CTR prediction models with large batch (~128k)",
+        "technologies": [
+          "Rec",
+          "Optim"
+        ],
+        "authors": "**Authors:** **Zangwei Zheng**, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, Fuzhao Xue, Ziheng Qin, Youlong Cheng, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2204.06240",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/bytedance/LargeBatchCTR",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-cowclip.png",
+        "video": ""
+      },
+      {
+        "title": "CAME Optimizer ![ACL Outstanding Paper Award](https://img.shields.io/badge/ACL-Outstanding%20Paper%20Award-ff3557?logo=ai&logoColor=white&style=flat-square)",
+        "href": "https://arxiv.org/abs/2307.02047",
+        "dates": "ACL 2023",
+        "active": true,
+        "description": "We introduce CAME, a confidence-guided optimizer that combines the fast convergence of adaptive methods with the low memory footprint of memory-efficient ones.",
+        "technologies": [
+          "LLM",
+          "Optim"
+        ],
+        "authors": "**Authors:** Yang Luo, Xiaozhe Ren, **Zangwei Zheng**, Zhuo Jiang, Xin Jiang, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2307.02047",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/yangluo7/CAME",
+            "icon": "github"
+          },
+          {
+            "type": "Blog",
+            "href": "/blog/proj-came",
+            "icon": "newspaper"
+          }
+        ],
+        "image": "/proj-came.png",
+        "video": ""
+      },
+      {
+        "title": "MERIT Optimizer",
+        "href": "https://arxiv.org/abs/2508.20577",
+        "dates": "ICML 2025",
+        "active": true,
+        "description": "MERIT constructs element-wise trust ratios to enable more robust update scaling by focusing on local weight structures.",
+        "technologies": [
+          "LLM",
+          "Optim"
+        ],
+        "authors": "**Authors:** Yang Luo, **Zangwei Zheng**, Ziheng Qin, Zirui Zhu, Yong Liu, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2508.20577",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/NUS-HPC-AI-Lab/MERIT",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-merit.png",
+        "video": ""
+      },
+      {
+        "title": "Dynamic Sequence Parallelism",
+        "href": "https://arxiv.org/abs/2403.10266",
+        "dates": "ICML 2025",
+        "active": true,
+        "description": "A novel, elegant and super efficient sequence parallelism for multi-dimensional transformer architecture.",
+        "technologies": [
+          "VideoGen",
+          "MLSys"
+        ],
+        "authors": "**Authors:** Xuanlei Zhao, Shenggan Cheng, Chang Chen, **Zangwei Zheng**, Ziming Liu, Zheming Yang, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2403.10266",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/NUS-HPC-AI-Lab/VideoSys",
+            "icon": "github"
+          },
+          {
+            "type": "Docs",
+            "href": "https://github.com/NUS-HPC-AI-Lab/VideoSys/blob/master/docs/dsp.md",
+            "icon": "bookopen"
+          }
+        ],
+        "image": "/proj-dsp.png",
+        "video": ""
+      },
+      {
+        "title": "InfoBatch: Dataset Pruning on the Fly",
+        "href": "https://arxiv.org/abs/2303.04947",
+        "dates": "ICLR 2024",
+        "active": true,
+        "description": "InfoBatch accelerates model training by pruning easy samples and reweighting losses, achieving up to 40% faster training without sacrificing accuracy across diverse tasks.",
+        "technologies": [
+          "Efficient ML",
+          "CV"
+        ],
+        "authors": "**Authors:** Ziheng Qin, Kai Wang, **Zangwei Zheng**, Jianyang Gu, Xiangyu Peng, Zhaopan Xu, Daquan Zhou, Lei Shang, Baigui Sun, Xuansong Xie, Yang You",
+        "image": "/proj-infobatch.png",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2303.04947",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/NUS-HPC-AI-Lab/InfoBatch",
+            "icon": "github"
+          },
+          {
+            "type": "Blog",
+            "href": "/blog/proj-infobatch",
+            "icon": "newspaper"
+          }
+        ]
+      },
+      {
+        "title": "OpenMoE [![GitHub Repo stars](https://img.shields.io/github/stars/XueFuzhao/OpenMoE?style=social)](https://github.com/XueFuzhao/OpenMoE)",
+        "href": "https://arxiv.org/abs/2402.01739",
+        "dates": "ICML 2024",
+        "active": true,
+        "description": "OpenMoE is a project aimed at igniting the open-source MoE community! We are releasing a family of open-sourced Mixture-of-Experts (MoE) Large Language Models.",
+        "technologies": [
+          "LLM",
+          "MoE",
+          "Pre-training"
+        ],
+        "authors": "**Authors:** Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, **Zangwei Zheng**, Wangchunshu Zhou, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2402.01739",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/XueFuzhao/OpenMoE",
+            "icon": "github"
+          },
+          {
+            "type": "Blog",
+            "href": "https://xuefuzhao.notion.site/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879",
+            "icon": "newspaper"
+          }
+        ],
+        "image": "/proj-openmoe.png",
+        "video": ""
+      },
+      {
+        "title": "MSIER",
+        "href": "https://arxiv.org/abs/2404.12866",
+        "dates": "ACL 2024",
+        "active": true,
+        "description": "A supervised retriever that improves multimodal in-context learning by optimally selecting text- and vision-based examples",
+        "technologies": [
+          "Multi-Modal",
+          "In-Context Learning"
+        ],
+        "authors": "**Authors:** Yang Luo, **Zangwei Zheng**, Zirui Zhu, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2404.12866",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-msier.png"
+      },
+      {
+        "title": "Sequence Schedule",
+        "href": "https://arxiv.org/abs/2305.13144",
+        "dates": "NeurIPS 2023",
+        "active": true,
+        "description": "Discovered that LLMs can foresee their response length — leading to Sequence Scheduling, an efficient LLM batch inference technique.",
+        "technologies": [
+          "LLM",
+          "Efficient ML",
+          "Inference"
+        ],
+        "authors": "**Authors:** **Zangwei Zheng**, Xiaozhe Ren, Fuzhao Xue, Yang Luo, Xin Jiang, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2305.13144",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/zhengzangw/Sequence-Scheduling",
+            "icon": "github"
+          },
+          {
+            "type": "Blog",
+            "href": "/blog/proj-sequence-schedule",
+            "icon": "newspaper"
+          }
+        ],
+        "image": "/proj-sequence-schedule.png",
+        "video": ""
+      },
+      {
+        "title": "Token-Crisis",
+        "href": "https://arxiv.org/abs/2305.13230",
+        "dates": "NeurIPS 2023",
+        "active": true,
+        "description": "The available data can no longer keep pace with LLM development, but a carefully designed data repetition strategy can partially mitigate this limitation.",
+        "technologies": [
+          "LLM",
+          "Pre-training"
+        ],
+        "authors": "**Authors:** Fuzhao Xue, Yao Fu, Wangchunshu Zhou, **Zangwei Zheng**, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2305.13230",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-to-repeat.png"
+      },
+      {
+        "title": "Zero-Shot Continual Learning",
+        "href": "https://arxiv.org/abs/2303.06628",
+        "dates": "ICCV 2023",
+        "active": true,
+        "description": "A new benchmark and method to mitigate forgetting problem existed in the continual learning of large pretrained vision-language models.",
+        "technologies": [
+          "CL",
+          "VLM",
+          "Efficient ML"
+        ],
+        "authors": "**Authors:** **Zangwei Zheng**, Mingyuan Ma, Kai Wang, Ziheng Qin, Xiangyu Yue, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2303.06628",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Thunderbeee/ZSCL",
+            "icon": "github"
+          },
+          {
+            "type": "Blog",
+            "href": "/blog/proj-zscl",
+            "icon": "newspaper"
+          }
+        ],
+        "image": "/proj-zscl.png",
+        "video": ""
+      },
+      {
+        "title": "DoPrompt for Domain Adaptation",
+        "href": "https://arxiv.org/abs/2208.08914",
+        "dates": "2022",
+        "active": true,
+        "description": "DoPrompt is a simple and effective method to improve the performance of domain adaptation by using prompts.",
+        "technologies": [
+          "DA",
+          "CV"
+        ],
+        "authors": "**Authors:** **Zangwei Zheng**, Xiangyu Yue, Kai Wang, Yang You",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2208.08914",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "hhttps://github.com/zhengzangw/DoPrompt",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-prompt-da.png",
+        "video": ""
+      },
+      {
+        "title": "PCS Learning",
+        "href": "https://arxiv.org/abs/2103.16765",
+        "dates": "CVPR 2021",
+        "active": true,
+        "description": "An end-to-end Prototypical Cross-domain Self-Supervised Learning (PCS) framework for Few-shot Unsupervised Domain Adaptation (FUDA).",
+        "technologies": [
+          "DA",
+          "CV",
+          "SSL"
+        ],
+        "authors": "**Authors:** Xiangyu Yue, **Zangwei Zheng** (co-first-author), Shanghang Zhang, Yang Gao, Trevor Darrell, Kurt Keutzer, Alberto Sangiovanni Vincentelli",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2103.16765",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/zhengzangw/PCS-FUDA",
+            "icon": "github"
+          },
+          {
+            "type": "Blog",
+            "href": "https://xyue.io/pcs-fuda/index.html",
+            "icon": "newspaper"
+          }
+        ],
+        "image": "/proj-pcs-fuda.png",
         "video": ""
       }
     ]
