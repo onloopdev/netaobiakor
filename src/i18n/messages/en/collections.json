@@ -299,38 +299,38 @@
   },
   "work": {
     "items": [
-      {
-        "company": "HPC-AI Tech",
-        "href": "https://www.hpcaitech.com/",
+    {
+        "company": "HAMONICARE NG",
+        "href": "https://hamonicare.com.ng/",
         "badges": [],
-        "location": "Singapore",
-        "title": "Tech Lead",
-        "logoUrl": "/icon/hpc-ai.png",
-        "start": "Dec. 2024",
+        "location": "Nigeria",
+        "title": "Creative Director",
+        "logoUrl": "#",
+        "start": "Dec. 2025",
         "end": "Present",
-        "description": "Founder of Open-Sora and Video-Ocean."
+        "description": "Founder of Escapebills and Hamonicare."
       },
       {
-        "company": "Bytedance",
-        "href": "https://bytedance.com/",
+        "company": "Stemnovo",
+        "href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ng.linkedin.com/company/stemnovo-ng&ved=2ahUKEwiusqmMmbiSAxU8UkEAHWrBH78QFnoECBwQAQ&usg=AOvVaw1m9wDxRo_WqvKMYWWjoq-P",
         "badges": [],
-        "location": "Singapore",
-        "title": "Research Intern",
-        "logoUrl": "/icon/bytedance.png",
-        "start": "Jun. 2021",
-        "end": "Jun. 2022",
-        "description": "Work on large batch training for click-through rate prediction model, mentored by Xuan Zhou and Youlong Cheng."
+        "location": "Onitsha",
+        "title": "Intern",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFrzRViiyElX6dBobuH6fKzoxQh70HD4IOoGMe6Si0BaveNGWGsRCNu9A&s",
+        "start": "Feb. 2021",
+        "end": "Sept. 2025",
+        "description": " I taught Arduino, Robotics and Basic Programming using Scratch to High School Girls alongside other team members ."
       },
-      {
-        "company": "UC Berkeley",
-        "href": "https://berkeley.edu/",
+     {
+        "company": "ALL-HALLOWS SEMINARY",
+        "href": "https://allhallowsseminary.com/",
         "badges": [],
-        "location": "(Remote) Berkeley, CA",
+        "location": "(Onsite) Onitsha, NG",
         "title": "Research Intern",
-        "logoUrl": "/icon/ucb.png",
-        "start": "Apr. 2020",
-        "end": "May. 2021",
-        "description": "Work on self-supervised learning and domain adaptation, mentored by Xiangyu Yue and Alberto Sangiovanni-Vincentelli."
+        "logoUrl": "https://allhallowsseminary.com/wp-content/uploads/2021/02/ALL-HALLOWS.png",
+        "start": "Sept. 2020",
+        "end": "AUG. 2021",
+        "description": "Work as ICT teacher and Library Manager and also trained students coding using Scratch"
       }
     ]
   },
